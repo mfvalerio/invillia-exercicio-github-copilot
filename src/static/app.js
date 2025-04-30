@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
                           `<span class="participant">${participant}</span>`
                       )
                       .join("")
-                  : "<p>No participants yet</p"
+                  : "<p>No participants yet</p>"
               } 
           </div>
         `;
